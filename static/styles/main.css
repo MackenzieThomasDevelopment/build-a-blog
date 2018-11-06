@@ -1,0 +1,68 @@
+.post{
+    border:2px solid black;
+    border-radius:8px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:10px;
+    padding:20px;
+}
+
+nav{
+    background-color:purple;
+}
+
+nav a{
+    color:white;
+    padding:5px;
+}
+
+body{
+    margin:0;
+}
+
+input[type=text], textarea{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 40%;
+    background-color: purple;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color:darkorchid;
+}
+
+
+.form{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width:50%;
+}
+
+p{
+    padding:20px;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+h2{
+    color:purple;
+}
+
+
